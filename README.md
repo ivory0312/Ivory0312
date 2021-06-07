@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/Typescript-ffb13b?style=flat-square&logo=Typescript&logoColor=white&color=3178C6"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
