@@ -8,7 +8,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> -->
 <h2>Tech Stack</h2>
-<hr/>
 <div>
   <img src="https://img.shields.io/badge/html-ffb13b?style=flat-square&logo=html5&logoColor=white&color=e35027"/>
   <img src="https://img.shields.io/badge/css-ffb13b?style=flat-square&logo=Css3&logoColor=white&color=1572B6"/>
@@ -18,6 +17,6 @@
   <img src="https://img.shields.io/badge/Typescript-ffb13b?style=flat-square&logo=Typescript&logoColor=white&color=3178C6"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AdobeXD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
