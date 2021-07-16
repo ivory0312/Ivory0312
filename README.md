@@ -1,12 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Front-end%20Developer&height=250&animation=fadeIn&fontSize=50)
 ![ivory's github stats](https://github-readme-stats.vercel.app/api?username=ivory0312&count_private=true&show_icons=true&theme=vue)
 
-<!-- <a href="https://github.com/ivory0312" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.instagram.com/belovory/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> -->
+</a>
 <h2>Tech Stack</h2>
 <div>
   <img src="https://img.shields.io/badge/html-ffb13b?style=flat-square&logo=html5&logoColor=white&color=e35027"/>
