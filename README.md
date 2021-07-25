@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&text=Front-end%20Developer&height=250&animation=fadeIn&fontSize=50)
-![ivory's github stats](https://github-readme-stats.vercel.app/api?username=ivory0312&count_private=true&show_icons=true&theme=vue)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ivory0312&hide_border=true&layout=compact)
 
 <a href="https://www.instagram.com/belovory/" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
