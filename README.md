@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/React-ffb13b?style=flat-square&logo=React&logoColor=white&color=5fd4f4"/>
   <img src="https://img.shields.io/badge/Scss-ffb13b?style=flat-square&logo=Sass&logoColor=white&color=CC6699"/>
   <img src="https://img.shields.io/badge/Typescript-ffb13b?style=flat-square&logo=Typescript&logoColor=white&color=3178C6"/>
-  <img src="https://img.shields.io/badge/Vue-ffb13b?style=flat-square&logo=vue.js&logoColor=white&color=4FC08D"/>
 </div>
 <div>
   <img src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=ffffff"/>
