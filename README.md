@@ -4,9 +4,6 @@
 <a href="https://www.instagram.com/belovory/" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://ivory0312.tistory.com/" target="_blank">
-  <img src=https://img.shields.io/badge/TISTORY-%23148EFF.svg?&style=for-the-badge&logoColor=white alt=tistory style="margin-bottom: 5px;" />
-</a>
 
 <h2>Tech Stack</h2>
 <div>
